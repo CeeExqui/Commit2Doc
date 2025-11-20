@@ -1,0 +1,5 @@
+{
+  "name": "Commit2Doc",
+  "description": "Generate comprehensive feature documentation from Git commits using Gemini AI. Supports GitHub, Azure DevOps, and manual diff inputs.",
+  "requestFramePermissions": []
+}
